@@ -1,6 +1,6 @@
 CC := g++
 LDFLAGS := -lm
-TARGETS := a b c d e f g h i j l m
+TARGETS := a b c d e f g h i j k l m n 
 a_OBJ :=
 b_OBJ := 
 c_OBJ := 
